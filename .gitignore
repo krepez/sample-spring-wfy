@@ -1,0 +1,6 @@
+# all files starting with a dot
+.*
+# all target folders
+target
+# except this file
+!/.gitignore
